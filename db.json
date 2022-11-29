@@ -2,7 +2,7 @@
 	"data":[
 		{
 			"id":1,
-			"titel": "Welcome to quicktype!",
+			"titel": "Pink Chair",
 			"image": "/images/img1.jpg",
 			"detail": [
 				{
@@ -13,7 +13,7 @@
 		},
 		{
 			"id":2,
-			"titel": "Welcome to quicktype!",
+			"titel": "Forest Mood Chair",
 			"image": "/images/img2.jpg",
 			"detail": [
 				{
@@ -24,7 +24,7 @@
 		},
 		{
     	"id":3,
-		"titel": "Welcome to quicktype!",
+		"titel": "Viecon Dinning Chair",
 		"image": "/images/img3.jpg",
 		"detail": [
 			{
@@ -35,7 +35,7 @@
 		},
 		{
     	"id":4,
-		"titel": "Welcome to quicktype!",
+		"titel": "Black Chair 1",
 		"image": "/images/img4.jpg",
 		"detail": [
 			{
@@ -46,7 +46,7 @@
 		},
 		{
     	"id":5,
-		"titel": "Welcome to quicktype!",
+		"titel": "Black Chair 2",
 		"image": "/images/img5.jpg",
 		"detail": [
 			{
@@ -57,7 +57,7 @@
 		},
 		{
     	"id":6,
-		"titel": "Welcome to quicktype!",
+		"titel": "Premium Gaming Chair",
 		"image": "/images/img6.jpg",
 		"detail": [
 			{
@@ -68,7 +68,7 @@
 		},
 		{
     	"id":7,
-		"titel": "Welcome to quicktype!",
+		"titel": "Girl Chair",
 		"image": "/images/img7.jpg",
 		"detail": [
 			{
