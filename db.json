@@ -1,4 +1,6 @@
-[{
+{"page": 1,
+    
+    "data":[{
     "id":1,
         "harga": "Rp. 700.000",
   "titel": "Welcome to quicktype!",
@@ -48,3 +50,4 @@
   "ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
 }
 ]
+}
