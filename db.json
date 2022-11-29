@@ -1,79 +1,79 @@
 [
-		{
-			"id":1,
-			"titel": "Pink Chair",
-			"image": "/images/img1.jpg",
-			"detail": [
-				{
-					"harga": "Rp. 4.400.000",
-						"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
-				}
-			]
-		},
-		{
-			"id":2,
-			"titel": "Forest Mood Chair",
-			"image": "/images/img2.jpg",
-			"detail": [
-				{
-					"harga": "Rp. 1.200.000",
-						"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
-				}
-			]
-		},
-		{
-    	"id":3,
-		"titel": "Viecon Dinning Chair",
-		"image": "/images/img3.jpg",
+	{
+		"id":1,
+		"titel": "Pink Chair",
+		"image": "/images/img1.jpg",
 		"detail": [
 			{
-				"harga": "Rp. 2.700.000",
-				"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
+				"harga": "Rp. 4.400.000",
+					"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
 			}
 		]
-		},
-		{
-    	"id":4,
-		"titel": "Black Chair 1",
-		"image": "/images/img4.jpg",
+	},
+	{
+		"id":2,
+		"titel": "Forest Mood Chair",
+		"image": "/images/img2.jpg",
 		"detail": [
 			{
-				"harga": "Rp. 300.000",
-				"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
+				"harga": "Rp. 1.200.000",
+					"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
 			}
 		]
-		},
+	},
+	{
+	"id":3,
+	"titel": "Viecon Dinning Chair",
+	"image": "/images/img3.jpg",
+	"detail": [
 		{
-    	"id":5,
-		"titel": "Black Chair 2",
-		"image": "/images/img5.jpg",
-		"detail": [
-			{
-				"harga": "Rp. 560.000",
-				"ket":"In publishing and graphic design, used to demonstrate the visual form of a  a typeface without relying on meaningful content"
-			}
-		]
-		},
-		{
-    	"id":6,
-		"titel": "Premium Gaming Chair",
-		"image": "/images/img6.jpg",
-		"detail": [
-			{
-				"harga": "Rp. 500.000",
-				"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
-			}
-		]
-		},
-		{
-    	"id":7,
-		"titel": "Girl Chair",
-		"image": "/images/img7.jpg",
-		"detail": [
-			{
-				"harga": "Rp. 1.700.000",
-				"ket":"In publishing and graphic design, used to demonstrate the visual form of a  a typeface without relying on meaningful content"
-			}
-		]
+			"harga": "Rp. 2.700.000",
+			"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
 		}
 	]
+	},
+	{
+	"id":4,
+	"titel": "Black Chair 1",
+	"image": "/images/img4.jpg",
+	"detail": [
+		{
+			"harga": "Rp. 300.000",
+			"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
+		}
+	]
+	},
+	{
+	"id":5,
+	"titel": "Black Chair 2",
+	"image": "/images/img5.jpg",
+	"detail": [
+		{
+			"harga": "Rp. 560.000",
+			"ket":"In publishing and graphic design, used to demonstrate the visual form of a  a typeface without relying on meaningful content"
+		}
+	]
+	},
+	{
+	"id":6,
+	"titel": "Premium Gaming Chair",
+	"image": "/images/img6.jpg",
+	"detail": [
+		{
+			"harga": "Rp. 500.000",
+			"ket":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content"
+		}
+	]
+	},
+	{
+	"id":7,
+	"titel": "Girl Chair",
+	"image": "/images/img7.jpg",
+	"detail": [
+		{
+			"harga": "Rp. 1.700.000",
+			"ket":"In publishing and graphic design, used to demonstrate the visual form of a  a typeface without relying on meaningful content"
+		}
+	]
+	}
+]
